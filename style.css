@@ -18,11 +18,11 @@ body{
     width: 50%;
 } */
 .hed-txt{
-    font-size: 7em;
+    font-size: 4em;
 }
 .g-f-d{
     font-family: "Delicious Handrawn", cursive;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 .bg-rotate{
     background-image: url("images/scrolling\ bg.png");
